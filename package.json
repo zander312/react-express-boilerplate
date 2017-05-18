@@ -25,6 +25,7 @@
   "dependencies": {
     "axios": "^0.15.3",
     "babel-cli": "^6.4.0",
+    "bluebird": "^3.5.0",
     "mysql": "^2.13.0",
     "react": "^15",
     "react-dom": "^15.4.2",
